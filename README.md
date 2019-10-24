@@ -1,0 +1,2 @@
+# movieSearchApp
+movieSearchApp: a movie-searching app, which allows users to findinformation about movies. Data will be pulled from The Movie Database’s (TMDb) API (http://www.themoviedb.org). Users should be able to search for movies, see the results populated in a collection view, and select a movie to view more details. They should also be able to favoritea movie, and view all of their saved favorites on a different tab. It will also fetch trending movie, select data's language. filter adult content, and find similar movies in user's favorites.
